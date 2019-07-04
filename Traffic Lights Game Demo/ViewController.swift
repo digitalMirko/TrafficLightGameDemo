@@ -9,12 +9,25 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    // Traffic Light image - change through the game
+    @IBOutlet weak var trafficLightImage: UIImageView!
+    // Middle number label
+    @IBOutlet weak var textLbl: UILabel!
+    // Button label which will change text during the game
+    @IBOutlet weak var startStopBtn: UIButton!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
+    
+    // Start Game Button
+    @IBAction func startGameBtn(_ sender: Any) {
+        
+        
+    }
+    
 
 }
 

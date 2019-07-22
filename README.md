@@ -21,7 +21,6 @@ The image was found on a singularityhub.com post about autonomous vehicle car bl
 
 The demo is only designed to work in a portrait mode and on an iPhone device, not iPad.
 
-Coming soon:
 Details and the screen cap images of the app in use can be found on <a href="http://digitalmirko.com/iOSApps.html">Digital Mirko</a>.
 
 Screen Cap on a iPhone X device:(shown below)</br>
